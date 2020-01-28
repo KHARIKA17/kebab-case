@@ -24,5 +24,8 @@ HTMLDog
 
 ## Contributors
 Name: Chitipolu Sri Sudheera
+
 Course: Applied Computer science
+
+![image](https://scontent-ort2-1.xx.fbcdn.net/v/t31.0-8/s960x960/13116355_288135248185626_3015874135984118098_o.jpg?_nc_cat=107&_nc_ohc=YQ3eglPnw7UAX9cO9iQ&_nc_ht=scontent-ort2-1.xx&oh=77959dcf6e93ee228955dea8e61599bc&oe=5ED14B6C)
 
