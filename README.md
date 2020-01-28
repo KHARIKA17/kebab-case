@@ -21,11 +21,11 @@ This repository says about github .why to use,how to use and what are the tools 
 6. [Github](https://github.com/)
 
 ## Recommended Resources
-Codecademy
+[Codecademy](https://www.codecademy.com/learn/learn-html)
 
-W3School
+[W3School](https://www.w3schools.com/html/)
 
-HTMLDog
+[HTMLDog](https://htmldog.com/)
 
 ## Contributors
 Name: Chitipolu Sri Sudheera
