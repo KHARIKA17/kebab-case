@@ -12,8 +12,13 @@ This repository says about github .why to use,how to use and what are the tools 
 ## Recommended Tools
 1. Gitdesktop
 2. Tortoise git
+    * git clone
+    * git ignore
+    * git commit master
 3. Git bash
 4. Visual Studio
+5. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+6. [Github](https://github.com/)
 
 ## Recommended Resources
 Codecademy
