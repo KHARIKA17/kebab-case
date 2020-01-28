@@ -14,3 +14,15 @@ This repository says about github .why to use,how to use and what are the tools 
 2. Tortoise git
 3. Git bash
 4. Visual Studio
+
+## Recommended Resources
+Codecademy
+
+W3School
+
+HTMLDog
+
+## Contributors
+Name: Chitipolu Sri Sudheera
+Course: Applied Computer science
+
