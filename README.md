@@ -3,7 +3,7 @@
 Hi, I am Sri Sudheera.
 
 ## Repository Links
-* [Source Repository](https://github.com/sudheera96/kebab-case/blob/master/README.md)
+* [Source Repository](https://github.com/sudheera96/kebab-case)
 * [Hosted Page](https://sudheera96.github.io/kebab-case/)
 
 ## About 
